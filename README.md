@@ -1,5 +1,7 @@
 # Registry Permission Check V1.01
 
+[![CodeQL](https://github.com/ChristophePelichet/Registry-Permission-Check/PSScriptAnalyzer/badge.svg)](https://github.com/ChristophePelichet/Registry-Permission-Check/actions?query=workflow%3APSScriptAnalyzer)
+
 ## Description
 Simple script ton check if a permission is applied and write a log if ok or not. Useful for debugging coupled with a schedule task to see when the permission changes.
 
